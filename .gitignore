@@ -1,0 +1,16 @@
+venv/
+.env
+*.env
+*.env.txt
+*.db
+*.sqlite
+*.sqlite3
+*.wav
+*.mp3
+*.m4a
+*.zip
+__pycache__/
+*.pyc
+
+workspace/*
+!workspace/.gitkeep
